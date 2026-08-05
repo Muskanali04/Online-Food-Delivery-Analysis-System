@@ -9,24 +9,24 @@ This project analyzes online food delivery data using Python to uncover customer
 - Generate meaningful insights from the dataset.
 
 🛠️ Technologies Used
--Python
--Pandas
--NumPy
--Matplotlib
--Seaborn
--CSV Dataset
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- CSV Dataset
 
 ✨ Key Features
--Data cleaning and preprocessing using Pandas.
--Exploratory Data Analysis (EDA).
--Created informative visualizations using Matplotlib and Seaborn.
--Analyzed customer behavior and sales trends.
--Generated business insights through data analysis.
+- Data cleaning and preprocessing using Pandas.
+- Exploratory Data Analysis (EDA).
+- Created informative visualizations using Matplotlib and Seaborn.
+- Analyzed customer behavior and sales trends.
+- Generated business insights through data analysis.
 
 📈 Skills Demonstrated
--Data Cleaning
--Data Transformation
--Exploratory Data Analysis (EDA)
--Data Visualization
--Python Programming
--Business Insights
+- Data Cleaning
+- Data Transformation
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Python Programming
+- Business Insights
